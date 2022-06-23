@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=M6kQTpIqpLs&t=324s
 튜터님이 올려주신 Python 공부자료.
 자료이름|자료주소|
 ---|---|
-파이썬 기초 문법 첫걸음 1시간 반짜리.|https://www.youtube.com/watch?v=M6kQTpIqpLs&t=324s
+파이썬 기초 문법 첫걸음 1시간 반짜리.|https://youtu.be/M6kQTpIqpLs
 점프 투 파이썬 | https://wikidocs.net/book/1
 파이썬 300제 | https://wikidocs.net/book/922
 
