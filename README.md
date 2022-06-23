@@ -8,6 +8,7 @@
 ### 220623
 
 파이썬 영상 보기 완료.
+
 _ -파이썬 기초 문법 첫걸음 1시간 반짜리. _
 
 https://www.youtube.com/watch?v=M6kQTpIqpLs&t=324s
