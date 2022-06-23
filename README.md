@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=M6kQTpIqpLs&t=324s
 점프 투 파이썬 | https://wikidocs.net/book/1
 파이썬 300제 | https://wikidocs.net/book/922
 
+파이썬 300제 023문제까지 해결했다.
+
 
 
 
